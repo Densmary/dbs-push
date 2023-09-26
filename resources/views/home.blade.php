@@ -46,7 +46,7 @@
             </div>
         </div>
     </div>
-<h2 class="container text-center"> ¡Registro exitoso!</h2>
+<h2 class="container text-center"> ¡Registro exitoso.!</h2>
 <h5 class="container text-center">Completa los siguientes campos para crear tu cuenta </h5>
 <div class="container text-center py-5">
   <div class="row">
